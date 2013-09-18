@@ -1,0 +1,4 @@
+[ Version: 2 ]
+PT23%321536%32well%32corning 32 48 2.25 2.25 SBS%32Adapter.ad.txt 
+Well 1 X 11.010 Y 7.870 Z -2.000
+
